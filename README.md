@@ -7,4 +7,4 @@ Resume Builder for Developers
 
 Using the mPDF library and built on WordPress.
 
-Link to working project here: [purplefish.xyz](https://purplefish.xyz)
+Link to working project here: <a href="https://purplefish.xyz" target="_blank">purplefish.xyz</a>
